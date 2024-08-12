@@ -32,8 +32,8 @@ Watch and learn step by step on my YouTube channel: [Codher](#)
    ## Stay Connected 💬
 
 - **Subscribe** to my channel for the latest Python tutorials.
-- **Follow me** on [Twitter](#), [Instagram](#). 
-- **Join the conversation** using #PythonBasics on social media!
+- **Follow me** on [[Instagram](https://www.instagram.com/learn2codeatsamarthya/)](#) . 
+- **Join the conversation** using #Codher, #learn2code@Samarthya on social media!
 
 ---
 
