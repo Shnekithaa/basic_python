@@ -1,18 +1,26 @@
 # Python Journey with Codher 🚀
 
-Welcome to the **Python Journey** repository! 🎉
+Welcome to the **Basic Python** repository! 🎉
 
-This is the official repo for all the Python content I teach on my YouTube channel. Whether you're just getting started with Python or looking to dive deep into advanced topics, you'll find all the resources, code snippets, and project files here.
+This is the official repo for all the basic Python concepts I teach on my YouTube channel. Perfect for beginners who want to build a strong foundation in Python.
 
 ## What's Inside? 📂
 
-- **Basics**: Get started with Python fundamentals.
-- **Intermediate**: Level up with object-oriented programming, file handling, and more.
-- **Advanced**: Explore topics like web scraping, data science, automation, and beyond.
+## What's Inside? 📂
+
+- **Variables & Data Types**: Learn how to store and manipulate different types of data.
+- **Control Flow**: Master `if`, `else`, and loops (`for`, `while`) to control the flow of your programs.
+- **Functions**: Create reusable blocks of code with functions.
+- **Data Structures**: Work with lists, tuples, dictionaries, and sets.
+- **Input/Output**: Handle user input and work with files.
+- **Error Handling**: Learn to manage errors and exceptions.
+- **Modules & Packages**: Understand how to organize and reuse your code with modules and packages.
+- **Basic Object-Oriented Programming (OOP)**: Get introduced to classes and objects.
+
 
 ## Follow Along! 📺
 
-Watch and learn step by step on my YouTube channel: [Your YouTube Channel Name](#) <!-- Replace with your actual link -->
+Watch and learn step by step on my YouTube channel: [Codher](#) 
 
 ## How to Use 🛠️
 
