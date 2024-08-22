@@ -4,7 +4,6 @@ Welcome to the **Basic Python** repository! 🎉
 
 This is the official repo for all the basic Python concepts I teach on my YouTube channel. Perfect for beginners who want to build a strong foundation in Python.
 
-## What's Inside? 📂
 
 ## What's Inside? 📂
 
