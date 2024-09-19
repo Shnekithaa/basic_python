@@ -19,7 +19,7 @@ This is the official repo for all the basic Python concepts I teach on my YouTub
 
 ## Follow Along! 📺
 
-Watch and learn step by step on my YouTube channel: [Codher](#) 
+Watch and learn step by step on my YouTube channel: [Codher](https://youtube.com/@codher-p3q?si=1gtDb68n4y3WQSSd) 
 
 ## How to Use 🛠️
 
